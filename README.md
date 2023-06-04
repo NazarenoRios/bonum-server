@@ -20,7 +20,7 @@ npm install
 Use de guia el example.env (copiando y pegando los mismos datos)
 ```
 
-### _4. Correr docker_   <img align="center" style={{height: '50', width: '50'}} alt="" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" />
+### _4. Correr docker_   <img align="center" style={{height: 50, width: 50}} alt="" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" />
 
 ```
 docker-compose up
