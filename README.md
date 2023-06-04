@@ -20,7 +20,7 @@ npm install
 Use de guia el example.env (copiando y pegando los mismos datos)
 ```
 
-### _4. Correr docker_   <img align="center" alt="" width="25" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" />
+### _4. Ejecutar docker_   <img align="center" alt="" width="25" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" />
 
 ```
 docker-compose up
@@ -28,6 +28,6 @@ docker-compose up
 
 ### Utils
 
-[Repositorio Github](https://github.com/hdes26/BONUMTEST-BACK) 
+[Repositorio Github](https://github.com/NazarenoRios/bonum-server.git) 
 
 [Repositorio Dockerhub](https://hub.docker.com/r/nazarenorios/bonum-server)
