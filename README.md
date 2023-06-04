@@ -8,7 +8,7 @@
 git clone https://github.com/NazarenoRios/bonum-server.git
 ```
 
-### _2. Instale las dependencias_
+### _2. Instale las dependencias_ <img align="center" alt="" width="25" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" />
 
 ```
 npm install
@@ -20,7 +20,7 @@ npm install
 Use de guia el example.env (copiando y pegando los mismos datos)
 ```
 
-### _4. Correr docker_   <img align="center" alt="" width="30" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" />
+### _4. Correr docker_   <img align="center" alt="" width="25" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" />
 
 ```
 docker-compose up
