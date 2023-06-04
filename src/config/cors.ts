@@ -1,7 +1,7 @@
 import checkNodeEnvironment from "../utils/checkNodeEnvironment";
 
 const origin = checkNodeEnvironment(
-  "https://butterflix.vercel.app",
+  "https://bonum-movies.vercel.app",
   "http://localhost:3000"
 );
 
