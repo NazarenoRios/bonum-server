@@ -10,3 +10,4 @@ services:
       - PORT=1337
       - DB_URI=mongodb+srv://bonum:dv3wAt5wXZCdP5TL@cluster0.g0mgkdf.mongodb.net/bonum-server?retryWrites=true&w=majority
       - SECRET=cafe
+      - NODE_ENV=production

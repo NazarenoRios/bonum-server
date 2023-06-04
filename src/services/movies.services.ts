@@ -21,8 +21,6 @@ const add_favorite = async (data: any) => {
     throw new Error("User not found");
   }
 
-  console.log(vote_average);
-
   const movie = await Movie.findOneAndUpdate(
     { code },
     {
@@ -35,8 +33,6 @@ const add_favorite = async (data: any) => {
     },
     { upsert: true, new: true }
   );
-
-  console.log(movie);
 
   user.movies.push(movie._id);
   await user.save();

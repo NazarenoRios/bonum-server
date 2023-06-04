@@ -150,8 +150,6 @@ const googlelogin = async (req: Request, res: Response) => {
 
     let password = email + email;
 
-    console.log("EMAILGOOGLE", email);
-
     const user = await User.findOne({ email: email }).populate("movies");
     // const user = await User.findOne({ email: email });
 
