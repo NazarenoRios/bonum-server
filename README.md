@@ -1,4 +1,4 @@
-﻿# Bonum Movies Server
+# Bonum Movies Server
 
 ## Instalación 🔧
 
@@ -18,12 +18,10 @@ npm install
 
 ```
 Use de guia el example.env (copiando y pegando los mismos datos)
-
 ```
 
 ### _4. Correr docker_
 
 ```
 docker-compose up
-
 ```
